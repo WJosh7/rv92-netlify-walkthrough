@@ -1,2 +1,2 @@
-# rv92-notify-walkthrough
+# rv92-netlify-walkthrough
 sample site for netlify
